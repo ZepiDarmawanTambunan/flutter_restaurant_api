@@ -1,16 +1,17 @@
-# testing
+APLIKASI RESTAURANT API
 
-A new Flutter project.
+- MENERAPKAN FETCH API MENGGUNAKAN HTTP
+- MENERAPKAN STATE MANAGEMENT PROVIDER
+- MENERAPKAN FITUR SEARCH
 
-## Getting Started
+- HOME PAGE (LIST RESTAURANT)
+![Screenshot_2023 02 16_11 26 16 612](https://user-images.githubusercontent.com/58543758/219269732-d53918fc-d0fc-4c36-a795-13b4172cb403.png)
 
-This project is a starting point for a Flutter application.
+- SEARCH PAGE
+![Screenshot_2023 02 16_11 26 30 113](https://user-images.githubusercontent.com/58543758/219269748-89c7c4a2-2662-48e5-b138-655390473251.png)
 
-A few resources to get you started if this is your first Flutter project:
+- DETAIL PAGE
+![Screenshot_2023 02 16_11 27 12 613](https://user-images.githubusercontent.com/58543758/219269761-138ea109-c514-462e-b281-260919078a77.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+CARA MENJALANKAN PROGRAM:
+flutter pub get
